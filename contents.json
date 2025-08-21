@@ -15,9 +15,9 @@
   
   {
     "type": "Box64",
-    "verName": "036fix",
+    "verName": "0.3.6-fix",
     "verCode": "1",
-    "remoteUrl": "https://github.com/StevenMXZ/Winlator-Contents/raw/refs/heads/main/Box64/box64-036fix.wcp"
+    "remoteUrl": "https://github.com/ziad9267/Winlator-Contents/raw/refs/heads/main/Box64/box64-036fix.wcp"
    },
   
   {
@@ -95,33 +95,41 @@
     "verName": "gplasync-2.3.1-1",
     "verCode": "1",
     "remoteUrl": "https://github.com/StevenMXZ/Winlator-Contents/raw/refs/heads/main/DXVK/dxvk-gplasync-v2.3.1-1.wcp"
-  }
+   },
+
   {
     "type": "FEXCore",
     "verName": "241214",
     "verCode": "1",
     "remoteUrl": "https://github.com/ziad9267/Winlator-Contents/raw/refs/heads/main/FEXCore/fexcore_241214.wcp"
    },
-  
-  {
-    "type": "FEXCore",
-    "verName": "2508",
-    "verCode": "1",
-    "remoteUrl": "https://github.com/ziad9267/Winlator-Contents/raw/refs/heads/main/FEXCore/FEXCore-2508.wcp"
-   },
-  
+
   {
     "type": "FEXCore",
     "verName": "2508.1",
     "verCode": "1",
     "remoteUrl": "https://github.com/ziad9267/Winlator-Contents/raw/refs/heads/main/FEXCore/2508.1.wcp"
    },
-  
+
   {
     "type": "FEXCore",
-    "verName": "2508-83e4496",
+    "verName": "83e4496",
     "verCode": "1",
-    "remoteUrl": "https://github.com/ziad9267/Winlator-Contents/raw/refs/heads/main/FEXCore/FEX-83e4496.wcp"
+    "remoteUrl": "https://github.com/StevenMXZ/Winlator-Contents/raw/refs/heads/main/FEXCore/FEX-83e4496.wcp"
+   },
+
+  {
+    "type": "FEXCore",
+    "verName": "Fix_NFS_Games",
+    "verCode": "1",
+    "remoteUrl": "https://github.com/StevenMXZ/Winlator-Contents/raw/refs/heads/main/FEXCore/Fex_Fix_NFS_Games.wcp"
+   },
+
+  {
+    "type": "FEXCore",
+    "verName": "2507_fix",
+    "verCode": "1",
+    "remoteUrl": "https://github.com/StevenMXZ/Winlator-Contents/raw/refs/heads/main/FEXCore/fexcore_2507_fix.wcp"
    },
   
   {
