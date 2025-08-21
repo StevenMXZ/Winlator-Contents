@@ -5,13 +5,6 @@
     "verCode": "1",
     "remoteUrl": "https://github.com/StevenMXZ/Winlator-Contents/releases/download/1.0/proton-10-arm64ec.wcp.xz"
     },
-
-  {
-    "type": "Box64",
-    "verName": "0.3.4",
-    "verCode": "1",
-    "remoteUrl": "https://github.com/ziad9267/Winlator-Contents/raw/refs/heads/main/Box64/box64-0.3.4.wcp"
-   },
   
   {
     "type": "Box64",
