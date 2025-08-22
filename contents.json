@@ -7,6 +7,13 @@
     },
   
   {
+    "type": "Wine",
+    "verName": "9.20-x86_64",
+    "verCode": "0",
+    "remoteUrl": "https://github.com/StevenMXZ/Winlator-Contents/releases/download/1.0/wine-9.20.wcp"
+    },
+  
+  {
     "type": "Box64",
     "verName": "0.3.5",
     "verCode": "1",
