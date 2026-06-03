@@ -185,7 +185,7 @@
     "type": "DXVK",
     "verName": "2.7.1-arm64ec-gplasync-fix-leegao",
     "verCode": "1",
-    "remoteUrl": "dxvk-2.7.1-arm64ec-gplasync-fix-leegao.wcp"
+    "remoteUrl": "https://github.com/StevenMXZ/Winlator-Contents/raw/refs/heads/main/DXVK/dxvk-2.7.1-arm64ec-gplasync-fix-leegao.wcp"
   },
 
   {
