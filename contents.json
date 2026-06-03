@@ -182,6 +182,13 @@
   },
 
   {
+    "type": "DXVK",
+    "verName": "2.7.1-arm64ec-gplasync-fix-leegao",
+    "verCode": "1",
+    "remoteUrl": "dxvk-2.7.1-arm64ec-gplasync-fix-leegao.wcp"
+  },
+
+  {
     "type": "FEXCore",
     "verName": "241214",
     "verCode": "1",
