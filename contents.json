@@ -1,4 +1,12 @@
 [
+ 
+  {
+    "type": "Proton",
+    "verName": "Proton-9-x86_64",
+    "verCode": "1",
+    "remoteUrl": "https://github.com/StevenMXZ/Winlator-Contents/releases/download/1.0/Proton.9.0-x86_64.wcp"
+  },
+  
   {
     "type": "Wine",
     "verName": "proton-10-arm64ec",
