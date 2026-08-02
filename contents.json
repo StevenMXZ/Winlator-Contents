@@ -69,6 +69,13 @@
     "verCode": "1",
     "remoteUrl": "https://github.com/StevenMXZ/Winlator-Contents/raw/refs/heads/main/Box64/box64-0.4.2-fix.wcp"
   },
+
+ {
+    "type": "Box64",
+    "verName": "0.4.4",
+    "verCode": "1",
+    "remoteUrl": "https://github.com/StevenMXZ/Winlator-Contents/raw/refs/heads/main/Box64/box64-0.4.4.wcp"
+  },
   
   {
   "type": "WOWBox64",
@@ -96,6 +103,13 @@
   "verName": "0.4.2",
   "verCode": "1",
   "remoteUrl": "https://github.com/StevenMXZ/Winlator-Contents/raw/refs/heads/main/WOWBox64/wowbox64-0.4.2.wcp"
+  },
+
+ {
+  "type": "WOWBox64",
+  "verName": "0.4.4",
+  "verCode": "1",
+  "remoteUrl": "https://github.com/StevenMXZ/Winlator-Contents/raw/refs/heads/main/WOWBox64/Wowbox64-0.4.4.wcp"
   },
 
   {
