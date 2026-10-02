@@ -217,6 +217,12 @@
     "remoteUrl": "https://github.com/StevenMXZ/Winlator-Contents/raw/refs/heads/main/DXVK/dxvk-2.7.1-arm64ec-gplasync-fix-leegao.wcp"
   },
 
+   {
+    "type": "DXVK",
+    "verName": "3.1-a6xx",
+    "verCode": "1",
+    "remoteUrl": "https://github.com/StevenMXZ/Winlator-Contents/raw/refs/heads/main/DXVK/dxvk-3.1-a6xx.wcp"
+  },
   {
     "type": "FEXCore",
     "verName": "241214",
