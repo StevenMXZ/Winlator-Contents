@@ -342,6 +342,13 @@
     "verCode": "1",
     "remoteUrl": "https://github.com/StevenMXZ/Winlator-Contents/raw/refs/heads/main/FEXCore/2609.wcp"
   },
+
+ {
+    "type": "FEXCore",
+    "verName": "2610",
+    "verCode": "1",
+    "remoteUrl": "https://github.com/StevenMXZ/Winlator-Contents/raw/refs/heads/main/FEXCore/2610.wcp"
+  },
   
 {
     "type": "VKD3D",
